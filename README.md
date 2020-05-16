@@ -5,8 +5,9 @@ when you are close by Isn't it magic :open_mouth: !
 
 #
 **TODO** 
-- [ ] Backend support
 - [ ] Improve location accuracy
+- [ ] Backend support
 - [ ] Speech recogniton
 - [ ] Tensorflow object recognition 
+
 
